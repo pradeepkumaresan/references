@@ -1,0 +1,1 @@
+[Our Subtle Habit of Misusing Managerial Authority](https://www.linkedin.com/pulse/edition-1-our-subtle-habit-misusing-managerial-authority-jesse-watson-ietsc)

@@ -1,0 +1,1 @@
+[Ask HN: How common is developer burnout? Have you ever been burnt out?](https://news.ycombinator.com/item?id=39809061)

@@ -1,0 +1,1 @@
+[Thoughts on the Future of Software Development](https://www.sheshbabu.com/posts/thoughts-on-the-future-of-software-development/)

@@ -1,0 +1,1 @@
+[Google’s Code Review Guidelines](https://read.engineerscodex.com/p/how-google-takes-the-pain-out-of)

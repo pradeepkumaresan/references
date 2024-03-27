@@ -1,0 +1,1 @@
+[From full-stack development to systems programming](https://ochagavia.nl/blog/from-full-stack-development-to-systems-programming/)

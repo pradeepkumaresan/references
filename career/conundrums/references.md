@@ -1,0 +1,1 @@
+[Newly senior engineer, but I don’t feel senior. I have big gaping holes with regard to how to structure/refactor code and build systems](https://www.reddit.com/r/ExperiencedDevs/comments/1bl1h2q/newly_senior_engineer_but_i_dont_feel_senior_i/)
