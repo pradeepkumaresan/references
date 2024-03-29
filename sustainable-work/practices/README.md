@@ -1,0 +1,1 @@
+[Investing in Internal Documentation: A Brick-by-Brick Guide for Startups](https://review.firstround.com/investing-in-internal-documentation-a-brick-by-brick-guide-for-startups/)
