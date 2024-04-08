@@ -7,3 +7,5 @@
 [What to Do If Your Team Is Underperforming](https://hbr.org/2022/08/what-to-do-if-your-team-is-underperforming)
 
 [What makes a good technical leader – any recommended books?](https://news.ycombinator.com/item?id=23759547)
+
+[How to Help an Underperformer](https://hbr.org/2014/06/how-to-help-an-underperformer)
