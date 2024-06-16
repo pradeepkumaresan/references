@@ -1,0 +1,1 @@
+[OAuth 2 Explained In Simple Terms](https://www.youtube.com/watch?v=ZV5yTm4pT8g&ab_channel=ByteByteGo)

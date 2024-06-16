@@ -1,0 +1,1 @@
+[How to Analyze Code for Vulnerabilities](https://www.youtube.com/watch?v=A8CNysN-lOM&ab_channel=OWASPDevSlop)
